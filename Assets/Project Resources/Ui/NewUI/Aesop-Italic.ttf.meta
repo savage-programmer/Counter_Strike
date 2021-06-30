@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 620f95cedb2f3a64a91c132ff6f8cd37
+timeCreated: 1552574303
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aesop
+  fontNames:
+  - Aesop
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 338e35044b1484447a5343439ba78198, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

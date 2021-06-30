@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 30da5618635bceb4dac18036c9162d0d
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: KUMOBLAC1
+    100002: KUMOBLAC2
+    100004: KUMOBLAC3
+    100006: KUMOSIT
+    100008: KUMOSIT1
+    100010: KUMOSIT2
+    100012: KUMOSIT3
+    100014: KUMOSIT4
+    100016: KUMOSIT5
+    100018: RUEDAS10
+    100020: RUEDAS11
+    100022: SAKUWIN1
+    100024: Seats
+    100026: //RootNode
+    100028: Tyre
+    100030: Tyres
+    100032: SAKUWIN1_MeshPart0
+    100034: SAKUWIN1_MeshPart1
+    400000: KUMOBLAC1
+    400002: KUMOBLAC2
+    400004: KUMOBLAC3
+    400006: KUMOSIT
+    400008: KUMOSIT1
+    400010: KUMOSIT2
+    400012: KUMOSIT3
+    400014: KUMOSIT4
+    400016: KUMOSIT5
+    400018: RUEDAS10
+    400020: RUEDAS11
+    400022: SAKUWIN1
+    400024: Seats
+    400026: //RootNode
+    400028: Tyre
+    400030: Tyres
+    400032: SAKUWIN1_MeshPart0
+    400034: SAKUWIN1_MeshPart1
+    2100000: METAL
+    2100002: MADERA
+    2100004: NEGRO
+    2100006: crisosc
+    2100008: MET2
+    2100010: techo
+    2100012: chimen
+    2100014: circul
+    2100016: bum2
+    2100018: bum
+    2100020: cristal
+    2100022: phong2
+    2100024: CHROME
+    2100026: BLACK
+    2100028: phong3
+    2100030: carleft
+    2100032: caright
+    2100034: RIGHT
+    2100036: BLACKMT
+    2100038: CRISTAL
+    2100040: 'Material #73'
+    2100042: 'Material #74'
+    2100044: BLUE3
+    2100046: DOBLE
+    2100048: 'Material #75'
+    2100050: 'Material #76'
+    2100052: 'Material #80'
+    2100054: phong1
+    2100056: BLUE
+    2100058: BEIGE
+    2100060: METALRA
+    2100062: GOMAS
+    2100064: MARICUL
+    2100066: GRIS
+    2300000: KUMOBLAC1
+    2300002: KUMOBLAC2
+    2300004: KUMOBLAC3
+    2300006: KUMOSIT
+    2300008: KUMOSIT1
+    2300010: KUMOSIT2
+    2300012: KUMOSIT3
+    2300014: KUMOSIT4
+    2300016: KUMOSIT5
+    2300018: RUEDAS10
+    2300020: RUEDAS11
+    2300022: SAKUWIN1
+    2300024: Tyre
+    2300026: SAKUWIN1_MeshPart0
+    2300028: SAKUWIN1_MeshPart1
+    3300000: KUMOBLAC1
+    3300002: KUMOBLAC2
+    3300004: KUMOBLAC3
+    3300006: KUMOSIT
+    3300008: KUMOSIT1
+    3300010: KUMOSIT2
+    3300012: KUMOSIT3
+    3300014: KUMOSIT4
+    3300016: KUMOSIT5
+    3300018: RUEDAS10
+    3300020: RUEDAS11
+    3300022: SAKUWIN1
+    3300024: Tyre
+    3300026: SAKUWIN1_MeshPart0
+    3300028: SAKUWIN1_MeshPart1
+    4300000: Tyre
+    4300002: KUMOSIT5
+    4300004: KUMOSIT4
+    4300006: KUMOSIT3
+    4300008: KUMOSIT2
+    4300010: KUMOSIT1
+    4300012: KUMOSIT
+    4300014: KUMOBLAC1
+    4300016: RUEDAS10
+    4300018: RUEDAS11
+    4300020: SAKUWIN1
+    4300022: KUMOBLAC2
+    4300024: KUMOBLAC3
+    4300026: SAKUWIN1_MeshPart0
+    4300028: SAKUWIN1_MeshPart1
+    2186277476908879412: ImportLogs
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
